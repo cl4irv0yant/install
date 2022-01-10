@@ -78,6 +78,6 @@ echo "$name" > /tmp/user_name
 dialog --title "Continue installation" --yesno \
 "Continue to install applications and dotfiles." \
 10 60 \
-&& curl https://raw.githubusercontent.com/cl4rv0yant\
-/installer/master/install_apps.sh > /tmp/install_apps.sh \
+&& curl https://raw.githubusercontent.com/cl4irv0yant\
+/install/master/install_apps.sh > /tmp/install_apps.sh \
 && bash /tmp/install_apps.sh
