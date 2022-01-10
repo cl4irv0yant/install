@@ -4,8 +4,8 @@ name=$(cat /tmp/user_name)
 
 apps_path="/tmp/apps.csv"
 
-curl https://raw.githubusercontent.com/cl4rv0yant\
-/installer/master/apps.csv > $apps_path
+curl https://raw.githubusercontent.com/cl4irv0yant\
+/install/master/apps.csv > $apps_path
 
 apps=("essential" "Essentials" on
       "network" "Network" on
@@ -64,6 +64,6 @@ echo "$packages" | while read -r line; do
     fi
 done
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
-curl https://raw.githubusercontent.com/cl4rv0yant\
-/installer/master/install_user.sh > /tmp/install_user.sh;
+curl https://raw.githubusercontent.com/cl4irv0yant\
+/install/master/install_user.sh > /tmp/install_user.sh;
 sudo -u "$name" sh /tmp/install_user.sh
