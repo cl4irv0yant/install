@@ -18,7 +18,7 @@ notifier,libnotify,Notifier
 git,git,Version control system
 git,diff-so-fancy,Human readable git diff
 i3,i3-gaps,i3 tiled window manager
-i3,polybar,polybar status bar,
+i3,polybar,polybar status bar
 i3,i3status,i3 status bar
 i3,i3lock,i3 lock monitor
 i3,dmenu,Dynamic menu for X
