@@ -21,7 +21,10 @@ i3,i3-gaps,i3 tiled window manager
 i3,polybar,polybar status bar
 i3,i3status,i3 status bar
 i3,i3lock,i3 lock monitor
+i3,i3scrot,i3 scrot
 i3,dmenu,Dynamic menu for X
+i3,rofi,Run menu
+i3,imagemagick,Image manipulation
 i3,feh,X11 image viewer
 i3,arc-gtk-theme,Desktop themes
 zsh,zsh,Unix shell (Z-Shell)
@@ -34,3 +37,6 @@ js,yarn,Dependency manager (for coc.vim)
 urxvt,rxvt-unicode,Terminal Urxvt
 urxvt,urxvt-tabbedex-mina86-git,Improved tabs for Urxvt (AUR)
 firefox,firefox,Firefox
+developer,ansible,Configuration management
+developer,kubectl,Kubernetes cli
+
