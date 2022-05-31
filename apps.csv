@@ -35,7 +35,6 @@ neovim,python-neovim,Python for neovim
 js,nodejs,Nodejs (for coc.vim)
 js,yarn,Dependency manager (for coc.vim)
 urxvt,rxvt-unicode,Terminal Urxvt
-urxvt,urxvt-tabbedex-mina86-git,Improved tabs for Urxvt (AUR)
 firefox,firefox,Firefox
 developer,ansible,Configuration management
 developer,kubectl,Kubernetes cli
