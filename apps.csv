@@ -55,5 +55,5 @@ tools,helm,
 tools,kustomize,
 tools,prettier,
 tools,stern,
-tools,yamllint
+tools,yamllint,Lint for yaml files
 
