@@ -37,5 +37,23 @@ js,yarn,Dependency manager (for coc.vim)
 urxvt,rxvt-unicode,Terminal Urxvt
 firefox,firefox,Firefox
 developer,ansible,Configuration management
-developer,kubectl,Kubernetes cli
+developer,kubectl,k8s cli
+developer,rancher-k3d-bin,Run k3s in docker (AUR)
+developer,k9s,TUI for k8s clusters
+developer,age,age
+tools,flux,flux
+tools,gitleaks,check passwords for git
+tools,go-task,modern make
+tools,ipcalc,network tool
+tools,jq,json
+tools,pre-commit,Pre-commit hooks
+tools,sops,mozilla sops
+tools,terraform,iac
+tools,yq,yaml
+tools,direnv,
+tools,helm,
+tools,kustomize,
+tools,prettier,
+tools,stern,
+tools,yamllint
 
